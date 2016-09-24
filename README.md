@@ -1,7 +1,7 @@
 # Fibonacci-Voronoi-Vortex
 
 
-Inspired by  fantastic talk <a href = "https://www.youtube.com/watch?v=90NsjKvz9Ns"><p>UI Algorithms</p></a> 
+Inspired by @markmarkoh 's fantastic 2014 talk <a href = "https://www.youtube.com/watch?v=90NsjKvz9Ns"><p>UI Algorithms</p></a>, I thought I would play around a little with Voronoi Diagrams.
 ![Screenshot](images/1.png)
 
 ![Screenshot](images/2.png)
